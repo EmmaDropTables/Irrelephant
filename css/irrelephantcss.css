@@ -28,22 +28,28 @@ h5{
 
 .sticky img{
   position: sticky;
+  top: 0;
 }
 
-.relative img{
+.absolute img{
   position: absolute;
   top: 225px;
   left: 200px;
   max-width: 30%;
   max-height: 30%;
-  z-index: 1
 }
 
 .absolute{
-  position: relative;
+  position: absolute;
   top: -210px;
   left: 220px;
   font-size: 25px;
   font-family: Arial;
-  z-index: 2
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
