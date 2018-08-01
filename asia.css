@@ -1,0 +1,9 @@
+.Malayan_tipir{
+  background-color: #e6e6e6;
+}
+.jumbotron{
+  background-image: url("../Images/asia_background.png");
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
