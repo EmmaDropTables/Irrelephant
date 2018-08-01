@@ -20,3 +20,8 @@ h4{
 h5{
   font-family: Arial;
 }
+
+.container img{
+  max-width: 15%;
+  max-height: 15%;
+}
