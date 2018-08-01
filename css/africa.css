@@ -3,7 +3,7 @@
 }
 .jumbotron{
   background-image: url("../Images/african_background.png");
-}
-.jumbotron{
+  background-attachment: fixed;
+  background-size: cover;
   color: white;
 }
