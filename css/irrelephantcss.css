@@ -26,10 +26,11 @@ h5{
   max-height: 15%;
 }
 
-.sticky img{
+/*div.sticky img{
+  position: ;
   position: sticky;
   top: 0;
-}
+}*/
 
 /*.absolute img{
   position: absolute;
