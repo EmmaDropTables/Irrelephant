@@ -21,11 +21,29 @@ h5{
   font-family: Arial;
 }
 
-.container img{
+.wrapper img{
   max-width: 15%;
   max-height: 15%;
 }
 
 .sticky img{
   position: sticky;
+}
+
+.relative img{
+  position: absolute;
+  top: 225px;
+  left: 200px;
+  max-width: 30%;
+  max-height: 30%;
+  z-index: 1
+}
+
+.absolute{
+  position: relative;
+  top: -210px;
+  left: 220px;
+  font-size: 25px;
+  font-family: Arial;
+  z-index: 2
 }
