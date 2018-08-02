@@ -70,3 +70,8 @@ h4 {
 .absolute {
   font-family: georgia;
 }
+
+.responsive{
+  width: 100%;
+  display: block;
+}
