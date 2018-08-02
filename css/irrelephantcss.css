@@ -45,7 +45,7 @@ h5{
   top: 30px;
   left: 110px;
   font-size: 25px;
-  font-family: Arial;
+  font-family: Georgia;
 }
 
 .center{
@@ -67,17 +67,15 @@ h4 {
   font-family: georgia;
 }
 
-.absolute {
-  font-family: georgia;
-}
-
 .responsive{
   width: 100%;
   display: block;
 }
 
 .jumbotron{
-    background-color: #42b9f4;
+    background-image: url("../Irrelephant/Images/Front_Picture.png");
     background-attachment: fixed;
     background-size: cover;
-    color: white
+    background-color: #42b9f4;
+    color: white;
+}
