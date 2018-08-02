@@ -75,3 +75,9 @@ h4 {
   width: 100%;
   display: block;
 }
+
+.jumbotron{
+    background-image: url("../Irrelephant/Images/Front_Picture.png");
+    background-attachment: fixed;
+    background-size: cover;
+    color: white
