@@ -75,15 +75,3 @@ h4 {
   width: 100%;
   display: block;
 }
-
-svg {
-  max-width: 100px;
-  max-height: 120px;
-  z-index: 100000000;
-}
-
-g{
-  max-width: 100px;
-  max-height: 120px;
-  z-index: 1000000001;
-}
